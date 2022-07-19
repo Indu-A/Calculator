@@ -1,0 +1,15 @@
+--------------------------------------------------------------------------
+Assignment 7 Checker v1.01
+[1;32m > 1. lab07 created correctly using the command line.............CORRECT[0m
+[1;32m > 2. Created an alias for the checking program..................CORRECT[0m
+[1;32m > 3. EnvVars.sh - Line 1: Variable use..........................CORRECT[0m
+[1;32m > 4. EnvVars.sh - line 2: variable use..........................CORRECT[0m
+[1;32m > 5. EnvVars.sh - Line 3: Variable use..........................CORRECT[0m
+[1;32m > 6. cur_dir_var.txt has the correct variable name..............CORRECT[0m
+[1;32m > 5.5 Sequential Script.........................................CORRECT[0m
+[1;32m > 5.6 Non-Sequential Script.....................................CORRECT[0m
+aruv0001				Estimated* grade: 10.0 of 10.0
+
+KEY: U2FsdGVkX18NQs751bNNy9YmfFX2Z0XEC+uBDpRcRb9wyUPDJVzQDO1uPJxPNT4J
+--------------------------------------------------------------------------
+
